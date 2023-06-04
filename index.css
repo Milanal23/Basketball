@@ -1,0 +1,40 @@
+header a{
+	
+	background-color: OrangeRed;
+	color: black;
+	font-size: 20px;
+	border-radius:30px;
+	border:1px solid OrangeRed;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+
+}
+header{
+	background-color: yellowgreen;
+	border: 1px solid yellowgreen;
+	padding: 20px;
+}
+h1{
+	text-align: center;
+}
+mark{
+	font-size: 20px;
+	background-color: yellowgreen;
+}
+img{
+	height: 100px;
+}
+.kyku {
+	font-size: 25px;
+}
+.hhw{
+	width: 500px;
+	height: 400px;
+}
+p{
+	font-size: 19px;
+}
+.ruy{
+	height: 200px;
+}
